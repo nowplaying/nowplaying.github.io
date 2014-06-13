@@ -1,0 +1,49 @@
+# Dependencies
+markdown:	redcarpet
+pygments:	true
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		Now Playing
+tagline:	'blog'
+description:	'some other level'
+url:		http://nowplaying.github.io
+
+author:
+  name:		'Ian Camporez Brunelli'
+  url:		https://google.com/+IanCamporezBrunelli
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon2.png
+cover:		/assets/images/cover.jpg
+
+social:
+  
+  - icon:	github
+    url:	https://github.com/nowplaying
+    desc:	Fork me on github
+
+  - icon:	googleplus-alt
+    url:	
+    desc:	Add me on google+
+
+  - icon:	feed
+    url:	atom.xml
+    desc:	Subscribe to my feed
+    
+menu:
+  - title:	Home
+    url:	/
+    
+  - title:	About
+    url:	/about
+    
+copyright:
+  author:	Author
+  url:		http://nowplaying.github.io
+  #type_title:	Some rights reserved
+  #type_url:	http://creativecommons.org/licenses/by-nc/2.5
